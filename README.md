@@ -65,6 +65,6 @@ To bridge the gap between data and human emotion, the next iterations will evolv
 
 <div align="center">
 
-*Created with ❤️ for PetFinder Kaggle Competition / University Project*
+*Data from PetFinder Kaggle Competition*
 
 </div>
